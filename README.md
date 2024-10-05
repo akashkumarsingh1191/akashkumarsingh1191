@@ -1,3 +1,5 @@
+![logo](https://github.com/akashkumarsingh1191/akashkumarsingh1191/blob/main/Template.png)
+
 <h1 align="center">Hi 👋, I'm Akash Kumar Singh</h1>
 <h3 align="center">A passionate Data Engineer from India, focused on building efficient data pipelines and transforming raw data into actionable insights.</h3>
 
