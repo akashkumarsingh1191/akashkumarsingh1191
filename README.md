@@ -2,7 +2,7 @@
 
 
 ![logo](https://github.com/akashkumarsingh1191/akashkumarsingh1191/blob/main/Template.png)
-
+<h1 align='center'>Hello 👋, I am Akash Kumar Singh</h1>
 <h3 align="center">A passionate Data Engineer from India, focused on building efficient data pipelines and transforming raw data into actionable insights.</h3>
 <h2 align="center">Currently working as a Software Development Engineer Intern at Tranzita Systems.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumarsingh1191&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumarsingh1191" /> </p>
