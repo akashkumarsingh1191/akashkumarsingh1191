@@ -2,14 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Akash Kumar Singh</h1>
 <h3 align="center">A passionate Data Engineer from India, focused on building efficient data pipelines and transforming raw data into actionable insights.</h3>
-
+<h2 align="center">Currently working as a Software Development Engineer Intern at Tranzita Systems.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumarsingh1191&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumarsingh1191" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkumarsingh1191" alt="akashkumarsingh1191" /></a> </p>
 
-- 🔭 I’m currently working on [Tic-Toc](https://github.com/akashkumarsingh1191/Tic-Toc)
 
-- 🌱 I’m currently learning **Python, Pandas, SQL, Function App, Data Bricks,Postman**
+- 🌱 I’m currently learning **Python, Pandas, SQL, Function App, Data Bricks, Postman**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akashkumarsingh1191?tab=repositories](https://github.com/akashkumarsingh1191?tab=repositories)
 
